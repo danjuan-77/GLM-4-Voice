@@ -2,3 +2,5 @@
 *.DS_Store
 *.idea/
 test*
+*.pyc
+*.wav
